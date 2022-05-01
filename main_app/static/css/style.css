@@ -44,3 +44,9 @@ h1 {
   line-height: 0.9;
   text-align: center;
 }
+
+#heading{
+    color: #748ccc;
+    font-size: 5rem;
+    text-align: center;
+}
